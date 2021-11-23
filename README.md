@@ -3,6 +3,8 @@
 ## How to install the required packages into a virtual environment
 
 ```
+git clone https://github.com/philippwindischhofer/HiggsMLToyData.git
+cd HiggsMLToyData
 python3 -m venv .
 source bin/activate
 pip3 install -r requirements.txt
